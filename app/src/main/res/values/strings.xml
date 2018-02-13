@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TAM_Laboratorio_1.1.5_VicenteMZ</string>
+    <string-array name="listaEstados">
+        <item>onCreate: decripcion...</item>
+        <item>onStart: descripcion...</item>
+        <item>onResume: descripcion</item>
+        <item>onPaused: descripcion.....</item>
+        <item>onStoped: descripcion....</item>
+        <item>onDestroyed: Destruccion del activity</item>
+    </string-array>
+</resources>
